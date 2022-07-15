@@ -51,10 +51,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#341</td>
                             <td className="show576">08/07/2022</td>
-                            <td>James</td>
+                            <td>Julio Cesar</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>R$ 55.300,00</td>
+                            <td>R$ 49.999,99</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -64,10 +64,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#341</td>
                             <td className="show576">08/07/2022</td>
-                            <td>Akin</td>
+                            <td>Cesar</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>R$ 55.300,00</td>
+                            <td>R$ 51.000,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
@@ -77,10 +77,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#341</td>
                             <td className="show576">08/07/2022</td>
-                            <td>Mohamed</td>
+                            <td>Silva</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>R$ 55.300,00</td>
+                            <td>R$ 21.330,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButton />
