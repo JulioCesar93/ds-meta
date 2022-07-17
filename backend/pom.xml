@@ -15,7 +15,7 @@
 	<name>dsmeta</name>
 	<description>Projeto Spring React Vendas</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -46,6 +46,13 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.twilio.sdk</groupId>
+			<artifactId>twilio</artifactId>
+			<version>8.31.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
